@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there!
+## here is a short introduction of me
 
 My name is Shroom
 im 13-15 years old
@@ -9,7 +10,6 @@ Developer
 
 1. i use AI for like everything i will use (VBC) as "VibeCoded" Project
 2. i get super fast bored
-3. i can't sleep normally
 
 ## my Interests
 
@@ -19,11 +19,11 @@ Developer
 
 ## Socials
 
-Discord: shroomstech
+Email: aeroxptech@gmail.com
 Tiktok: shroomtech32
 
 ## plans
 
 1. making a Website
-2. not trying to get crazy
-3. not hating my self
+2. making more youtube
+
