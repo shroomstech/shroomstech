@@ -27,3 +27,4 @@ Tiktok: shroomtech32
 1. making a Website
 2. making more youtube
 
+<img src="banner.jpg" alt="Reiner Winkler">
