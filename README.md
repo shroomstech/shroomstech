@@ -8,7 +8,7 @@ Developer
 
 ## my Problems
 
-1. i use AI for like everything i will use (VBC) as "VibeCoded" Project
+1. i use AI for like everything
 2. i get super fast bored
 
 ## my Interests
