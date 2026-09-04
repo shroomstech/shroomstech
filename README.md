@@ -21,6 +21,7 @@ Developer
 
 Email: aeroxptech@gmail.com
 Tiktok: shroomtech32
+Discord: shroom_official
 
 ## plans
 
