@@ -8,7 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/shroomstech/curse-packages"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-curse-packages-dark.svg"><img src="assets/project-curse-packages-light.svg" width="49%" alt="curse-packages"></picture></a>&nbsp;<a href="https://github.com/shroomstech/shroom"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shroom-dark.svg"><img src="assets/project-shroom-light.svg" width="49%" alt="shroom"></picture></a>
+<a href="https://github.com/shroomstech/curse-packages"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-curse-packages-dark.svg"><img src="assets/project-curse-packages-light.svg" width="49%" alt="curse-packages"></picture></a>&nbsp;<a href="https://nimbusweb.duckdns.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shroom-dark.svg"><img src="assets/project-shroom-light.svg" width="49%" alt="shroom"></picture></a>
 
 <a href="https://github.com/shroomstech/KelpOS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-kelpos-dark.svg"><img src="assets/project-kelpos-light.svg" width="49%" alt="KelpOS"></picture></a>&nbsp;<a href="https://github.com/shroomstech/Alnix-wallpapers-dnftech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-alnix-wallpapers-dnftech-dark.svg"><img src="assets/project-alnix-wallpapers-dnftech-light.svg" width="49%" alt="Alnix-wallpapers-dnftech"></picture></a>
 
