@@ -19,28 +19,28 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hi, We are",
-    "name": "Kelp Linux",
-    "subtitle": "we build the KISS Linux Like Distro",
+    "greeting": "Hi, i'm",
+    "name": "Shroom",
+    "subtitle": "i build the most not needed shit i can do",
     "typing": true,
     "avatarShape": "pill",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Germany, United States of America"
+        "label": "Germany"
       },
       {
         "icon": "code",
-        "label": "C/C++"
+        "label": "HTML CSS"
       }
     ]
   },
   "about": {
-    "title": "About Us",
+    "title": "About me",
     "items": [
       {
         "icon": "person",
-        "label": "Developers And Designer"
+        "label": "Developer"
       },
       {
         "icon": "code",
@@ -59,8 +59,8 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:cplusplus",
-            "label": "C/C++"
+            "icon": "brand:python",
+            "label": "Python"
           },
           {
             "icon": "brand:zsh",
@@ -145,7 +145,7 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://kelplinux.duckdns.org/",
+        "url": "https://nimbusweb.duckdns.org/",
         "style": "tonal"
       },
       {
