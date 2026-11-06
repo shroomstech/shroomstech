@@ -8,10 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/shroomstech/curse-packages"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-curse-packages-dark.svg"><img src="assets/project-curse-packages-light.svg" width="49%" alt="curse-packages"></picture></a>&nbsp;<a href="https://github.com/shroomstech/Kelp-Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-kelp-linux-dark.svg"><img src="assets/project-kelp-linux-light.svg" width="49%" alt="Kelp-Linux"></picture></a>
-
-<a href="https://github.com/shroomstech/shroomstech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shroomstech-dark.svg"><img src="assets/project-shroomstech-light.svg" width="49%" alt="shroomstech"></picture></a>&nbsp;<a href="https://github.com/shroomstech/shroom"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-shroom-dark.svg"><img src="assets/project-shroom-light.svg" width="49%" alt="shroom"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
