@@ -1,8 +1,8 @@
 {
   "version": 1,
   "login": "shroomstech",
-  "seed": "#FBCD2C",
-  "seedFromAvatar": true,
+  "seed": "#E5A50A",
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -19,36 +19,36 @@
   ],
   "hidden": [],
   "hero": {
-    "greeting": "Hi, I'm",
-    "name": "",
-    "subtitle": "i do Stuff no one Needs or No one Knows",
+    "greeting": "Hi, We are",
+    "name": "Kelp Linux",
+    "subtitle": "we build the KISS Linux Like Distro",
     "typing": true,
     "avatarShape": "pill",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Germany"
+        "label": "Germany, United States of America"
       },
       {
         "icon": "code",
-        "label": "Python - C/C++ - Assembly - HTML"
+        "label": "C/C++"
       }
     ]
   },
   "about": {
-    "title": "About me",
+    "title": "About Us",
     "items": [
       {
         "icon": "person",
-        "label": "Developer and designer"
+        "label": "Developers And Designer"
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Mostly Open Source"
       },
       {
         "icon": "palette",
-        "label": "Into Material Design"
+        "label": "Into Linux philosophy"
       }
     ]
   },
@@ -59,16 +59,16 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:devbox",
-            "label": "Developer"
+            "icon": "brand:cplusplus",
+            "label": "C/C++"
           },
           {
-            "icon": "brand:apple",
-            "label": "Apple User"
+            "icon": "brand:zsh",
+            "label": "Shell"
           },
           {
-            "icon": "brand:airplayvideo",
-            "label": "Content Creator"
+            "icon": "brand:cmake",
+            "label": "Makefiles"
           }
         ]
       },
@@ -76,25 +76,20 @@
         "title": "Tools",
         "items": [
           {
-            "icon": "brand:git",
-            "label": "Git"
-          },
-          {
-            "icon": "brand:apple",
-            "label": "macOS"
-          },
-          {
             "icon": "brand:github",
-            "label": "GitHub"
-          }
-        ]
-      },
-      {
-        "title": "Unknown",
-        "items": [
+            "label": "Github"
+          },
           {
-            "icon": "question_mark",
-            "label": "???"
+            "icon": "brand:vscodium",
+            "label": "Visual Studio Code"
+          },
+          {
+            "icon": "brand:discord",
+            "label": "Discord"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
           }
         ]
       }
@@ -102,7 +97,9 @@
   },
   "projects": {
     "source": "pinned",
-    "repos": [],
+    "repos": [
+      ".github"
+    ],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
@@ -127,16 +124,20 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:discord",
-        "url": "https://discord.gg/hqE5wtCWHu"
-      },
-      {
         "icon": "brand:tiktok",
         "url": "https://tiktok.com/@nimbus32.img"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/4apkpY2E7Z"
+      },
+      {
+        "icon": "globe_uk",
+        "url": "https://kelplinux.duckdns.org/"
       }
     ],
     "variant": "icon",
-    "fill": "brand",
+    "fill": "tonal",
     "card": true
   },
   "buttons": {
@@ -144,13 +145,19 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://nimbusweb.duckdns.org",
-        "style": "filled"
+        "url": "https://kelplinux.duckdns.org/",
+        "style": "tonal"
       },
       {
         "icon": "book_2",
         "label": "All repositories",
         "url": "",
+        "style": "filled"
+      },
+      {
+        "icon": "brand:discord",
+        "label": "Discord",
+        "url": "https://discord.gg/4apkpY2E7Z",
         "style": "tonal"
       }
     ],
