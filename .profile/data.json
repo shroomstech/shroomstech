@@ -1,0 +1,288 @@
+{
+ "key": "15609e3",
+ "stars": 1,
+ "contributions": 166,
+ "repos": 15,
+ "followers": 9,
+ "languages": [
+  [
+   "C",
+   121041
+  ],
+  [
+   "HTML",
+   36411
+  ],
+  [
+   "Python",
+   29693
+  ],
+  [
+   "CSS",
+   27041
+  ],
+  [
+   "C++",
+   2868
+  ],
+  [
+   "Assembly",
+   2704
+  ],
+  [
+   "CMake",
+   539
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 6,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 6
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "curse-packages",
+   "url": "https://github.com/shroomstech/curse-packages",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Kelp-Linux",
+   "url": "https://github.com/shroomstech/Kelp-Linux",
+   "text": "The linux Version of KelpOS",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "KelpOS",
+   "url": "https://github.com/shroomstech/KelpOS",
+   "text": "V-OSDev",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "BoredOS",
+   "url": "https://github.com/shroomstech/BoredOS",
+   "text": "An operating system made out of infinite boredom.",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "Alnix-wallpapers-dnftech",
+   "url": "https://github.com/shroomstech/Alnix-wallpapers-dnftech",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Makefile",
+   "topics": []
+  },
+  {
+   "name": "DsinitRC",
+   "url": "https://github.com/shroomstech/DsinitRC",
+   "text": "DsinitRC is a Lightweight Init System for Any Linux Distribution",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "CursedOS",
+   "url": "https://github.com/shroomstech/CursedOS",
+   "text": "DuckyOS also known as CursedOS is an Independent Linux Distribution that currently Ships with X11 and No GUI",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "cursedosuserrepo",
+   "url": "https://github.com/shroomstech/cursedosuserrepo",
+   "text": "the CursedOS User Repository (Archived)",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "curse",
+   "url": "https://github.com/shroomstech/curse",
+   "text": "Curse is a Package manager Written from scratch",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "DuckyFS",
+   "url": "https://github.com/shroomstech/DuckyFS",
+   "text": "DFS (DuckyFS) is a Linux File System that was made with Gemini AI",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "SHRPad",
+   "url": "https://github.com/shroomstech/SHRPad",
+   "text": "SHRPad aka SHR NotePad: a minimalistic notepad that uses about 200KiB or more of Storage",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "DuckyWM",
+   "url": "https://github.com/shroomstech/DuckyWM",
+   "text": "the first Lightweight WM made by Duck.ai also known as DuckDuckGo AI",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "custom-commands",
+   "url": "https://github.com/shroomstech/custom-commands",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "shroom",
+   "url": "https://github.com/shroomstech/shroom",
+   "text": "dumb website",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "shroomstech",
+   "url": "https://github.com/shroomstech/shroomstech",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
