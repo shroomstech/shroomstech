@@ -1,8 +1,8 @@
 {
- "key": "30abc586",
+ "key": "6d49e1c4",
  "stars": 1,
  "contributions": 200,
- "repos": 16,
+ "repos": 15,
  "followers": 10,
  "languages": [
   [
@@ -11,15 +11,15 @@
   ],
   [
    "HTML",
-   42932
-  ],
-  [
-   "CSS",
-   34502
+   36411
   ],
   [
    "Python",
    29693
+  ],
+  [
+   "CSS",
+   27041
   ],
   [
    "C++",
@@ -99,7 +99,7 @@
     "today": false
    },
    {
-    "c": 15,
+    "c": 9,
     "day": 6,
     "today": false
    },
@@ -111,16 +111,20 @@
   ],
   [
    {
-    "c": 10,
+    "c": 11,
     "day": 8,
     "today": false
    },
    {
-    "c": 3,
+    "c": 8,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -140,15 +144,6 @@
    "fork": false,
    "stars": 1,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "kelplinux.duckdns.org",
-   "url": "https://github.com/shroomstech/kelplinux.duckdns.org",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "CSS",
    "topics": []
   },
   {
