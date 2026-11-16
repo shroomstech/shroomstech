@@ -1,5 +1,5 @@
 {
- "key": "3e264a2",
+ "key": "26f06870",
  "stars": 1,
  "contributions": 204,
  "repos": 17,
@@ -11,15 +11,15 @@
   ],
   [
    "HTML",
-   47161
+   52028
+  ],
+  [
+   "CSS",
+   29864
   ],
   [
    "Python",
    29693
-  ],
-  [
-   "CSS",
-   27041
   ],
   [
    "C++",
@@ -30,8 +30,8 @@
    2741
   ],
   [
-   "CMake",
-   539
+   "JavaScript",
+   982
   ]
  ],
  "days": [
@@ -113,9 +113,13 @@
    {
     "c": 8,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
