@@ -1,9 +1,9 @@
 {
- "key": "adef6aec",
+ "key": "ed29536c",
  "stars": 1,
  "contributions": 212,
  "repos": 17,
- "followers": 11,
+ "followers": 10,
  "languages": [
   [
    "C",
@@ -128,9 +128,13 @@
    {
     "c": 5,
     "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
     "today": true
    },
-   null,
    null,
    null
   ]
